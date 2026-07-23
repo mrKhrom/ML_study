@@ -1,0 +1,8 @@
+#!/bin/sh
+'''exec' "/Users/alekseykhromov/Library/Mobile Documents/com~apple~CloudDocs/My Cloud/Программирование/ML/1 Работа с признаками и построение моделей/1 Введение в машинное обучение/Ноутбук к занятию «Введение в машинное обучение»/.venv/bin/python" "$0" "$@"
+' '''
+import sys
+from fontTools.__main__ import main
+if __name__ == '__main__':
+    sys.argv[0] = sys.argv[0].removesuffix('.exe')
+    sys.exit(main())

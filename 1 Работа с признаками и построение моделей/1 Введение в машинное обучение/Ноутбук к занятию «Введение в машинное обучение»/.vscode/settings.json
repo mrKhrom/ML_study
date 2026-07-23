@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "/Users/alekseykhromov/.venvs/ml/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "jupyter.kernels.excludePythonEnvironments": [],
+    "notebook.kernelProviderAssociations": []
+}
